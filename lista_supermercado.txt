@@ -1,0 +1,16 @@
++==================================+
+|  Supermercado - Lista de Compras |
++==================================+
+
+> Alimentos Básicos
+
+    Arroz e grãos
+    Doces, sobremesas e confeitaria
+    Massas e molhos
+    Conservas e Enlatados
+    Azeites, óleos e vinagres
+    Temperos e condimentos
+    Café em pó
+    Produtos Mise
+    Linha Maggi
+    Linha Moça
