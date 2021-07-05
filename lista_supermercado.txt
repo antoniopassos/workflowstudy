@@ -25,3 +25,12 @@
     Pratos prontos
     Açai Frooty
     Iogurtes Nestlé
+
+> Açougue e Peixaria
+
+    Carne bovina
+    Carne de porco
+    Frango
+    Aves especiais
+    Peixaria
+    Frutos do mar
