@@ -13,3 +13,15 @@
     Biscoitos e cereais
     Geléias
     Margarinas Becel
+
+> Frescos e Refrigerados
+
+    Frutas
+    Ovos
+    Carnes, aves e peixes
+    Verduras e Legumes
+    Queijos e frios
+    Congelados
+    Pratos prontos
+    Açai Frooty
+    Iogurtes Nestlé
