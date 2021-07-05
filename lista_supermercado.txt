@@ -1,0 +1,15 @@
++==================================+
+|  Supermercado - Lista de Compras |
++==================================+
+
+> Matinais
+
+    Pães, torradas e bolos
+    Iogurtes e laticínios
+    Achocolatados
+    Café e chá
+    Farinhas, aveia e mingau
+    Leite
+    Biscoitos e cereais
+    Geléias
+    Margarinas Becel
